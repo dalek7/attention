@@ -10,7 +10,9 @@ https://arxiv.org/abs/1508.04025
 
 # Addition of two numbers
 
+### Sequence length = 10
 <img src='AttentionLayer-multiplicative/seqlen10.gif' />
 
+### Sequence length = 30
 <img src='AttentionLayer-multiplicative/seqlen30.gif' />
 
