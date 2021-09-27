@@ -6,3 +6,11 @@
 Luong, M. T., Pham, H., & Manning, C. D. (2015). Effective approaches to attention-based neural machine translation. arXiv preprint arXiv:1508.04025.
 ```
 https://arxiv.org/abs/1508.04025
+
+
+# Addition of two numbers
+
+<img src='AttentionLayer-multiplicative/seqlen10.gif' />
+
+<img src='AttentionLayer-multiplicative/seqlen30.gif' />
+
